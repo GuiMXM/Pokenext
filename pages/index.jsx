@@ -29,7 +29,7 @@ export default function Home({pokemons}) {
     <>
     <div className={styles.title_container}>
 
-      <h1> Poke <span>Next</span></h1>
+      <h1> Poke <span>Nexta</span></h1>
       <img src="../images/raio.png"  alt="pokenext  Logo" />
     </div>
       <div className={styles.pokeContainer}>
